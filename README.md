@@ -54,7 +54,7 @@ You can prefer the image for better understanding.</h2><br>
 <li><h2>Power supply(Battery,Adapter,Solar Panel)</h2></li>
 </ul>
 <h1>!!!Power supply in my project is Adapter</h1>
-<h2><p style="text-align:center;"><a href="manganba1.html">Back</a></p></h2>
+<h1><i><u><center>Thank you for visiting my website.....</center></u></i></h1>
 
 </body>
 </html>
