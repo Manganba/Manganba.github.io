@@ -13,7 +13,7 @@
   
   
   <p><h2>Some of the programming languages that I practice learning are listed below:</h2><br>
- <u>  <h2>1.HTML:</h2></u><br>
+ <u> <h2>1.HTML:</h2></u><br>
   <h3><ul type ="disc">  
   <li>HTML stands for Hyper Text Markup Language</li>
 <li>HTML is the standard markup language for creating Web pages</li>
