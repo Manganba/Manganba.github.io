@@ -7,7 +7,9 @@ Class 8 ,Mother's Pride Academy
 Bishnupur District, Manipur
 
 
-Skills
+Skills:
+
+
 Some of the programming languages that I practice learning are listed below:
 
 1.HTML:       
@@ -33,7 +35,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 
 
-Achievments
+Achievments:
 
 
 
@@ -42,14 +44,14 @@ I secured second position in a powerpoint presentation in the
 India International Science Festival held at Kolkata from 5-8th of November 2019.
 
 
-Hobby
+Hobby:
 
 ![manganba badminton](https://user-images.githubusercontent.com/66257323/84572365-0acc4100-adb7-11ea-802c-f9fc69c1aa25.png)
 During my free time I used to play Badminton
 I like it very much
 -100%
 
-Skills
+Skills:
 
 ![manganba html icon](https://user-images.githubusercontent.com/66257323/84572366-0bfd6e00-adb7-11ea-8c99-46913592a985.png)
 -40% of my knowledge.
@@ -77,4 +79,7 @@ Ultrasonic Sensor
 Buzzer
 Power supply(Battery,Adapter,Solar Panel)
 !!!Power supply in my project is Adapter
+
+
+
                                                    Thank you for visiting my website.....
